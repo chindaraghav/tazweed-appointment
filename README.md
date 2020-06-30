@@ -22,6 +22,8 @@ yarn start
 ```bash
 cd ./mobile
 yarn install
+cd ./ios
+pod install
 ```
 
 ## Enviroment
