@@ -1,0 +1,10 @@
+{
+    "error.something_went_wrong":"Something went wrong!",
+    "messages.appointment_confirmed":"Appointment Confirmed!",
+    "messages.confirm_booking":"Confirm Booking?",
+    "messages.confirm_cooking_desc":"Please confirm to book this slot?",
+    "labels.book_appointment":"Book an Appointment",
+    "messages.no_slot_available":"NO SLOTS AVAILABLE",
+    "messages.select_date_for_slots":"Select Date for Slots",
+    "labels.search_for_seller":"Search for seller"
+}

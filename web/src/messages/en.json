@@ -1,0 +1,21 @@
+{
+    "labels.date_of_availability": "Date of availability",
+    "labels.date_of_availability_desc": "Select date which you want to create slots",
+    "labels.duration": "Duration",
+    "labels.duration_desc": "Select duration of one slot",
+    "message.no_slots_available": "No Slots available for Today!",
+    "labels.time_range": "Time Range",
+    "labels.time_range_desc": "Select time you want to create slot. According to duration and range selected, Single or multiple slots will be created which can be booked by the user.",
+    "message.remove_reject_appointments": "This slot is booked and it has pending appointments. Remove the rejected appointments from list.",
+    "labels.show_appointment": "Show Appointments for",
+    "labels.confirmed_appointments": "Confirmed Appointments Today",
+    "labels.name": "name",
+    "labels.email": "email",
+    "labels.timings": "timings",
+    "messages.slot_saved":"Slot Saved!",
+    "messages.slot_save_failed":"Save failed!",
+    "messages.slot_created":"new Slot Created! Would you like to create some more?",
+    "error.something_went_wrong":"Something went wrong!",
+    "messages.no_appointment_found":"No appointment found",
+    "messages.past_appointmemt_accept": "Cannot accept past slot appointments!"
+}
